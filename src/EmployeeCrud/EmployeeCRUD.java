@@ -7,7 +7,7 @@ public class EmployeeCRUD{
 
     private static final String URL = "jdbc:mysql://localhost:3306/employee_db";
     private static final String USER = "root";
-    private static final String PASSWORD = "priya@1126"; // MySQL password
+    private static final String PASSWORD = "priya@1126";
 
     
     public static Connection getConnection() throws Exception {
